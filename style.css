@@ -1,0 +1,116 @@
+
+
+.back{
+    background-image: url('assets/background.jpg');
+    padding-top:260px;
+    padding-bottom: 260px;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.slogan{
+    font-family: verdana;
+    text-align: center;
+    font-size: 52;
+    color: 222831;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.shopnow{
+    width: 20%;
+}
+
+.btnshop{
+    padding-left: 170px;
+}
+
+.border{
+    border: 10px solid black;
+    padding: 5px;
+  }
+
+.kid{
+    height: 226px;
+}
+
+.women{
+    height: 226px;
+}
+
+.men{
+    height: 226px;
+}
+
+.imgshop{
+    padding-left:30px;
+}
+
+hr{
+    height:10px;
+}
+
+.center1{
+    display: block;
+    margin-left: 110px;
+    margin-right: auto;
+    width: 15%;
+}
+
+.custom{
+    padding-bottom: 300px;
+    background-image: url('assets/wall.jpg');
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-color: 222831;
+
+}
+
+.customtext{
+    font-family: verdana;
+    font-size: 52;
+    color: 222831;
+    margin-left: 50px;
+}
+
+.rewardsblock{
+    padding-right:60px;
+    float: right;
+    text-align: center;
+    font-family: verdana;
+    font-size: 36;
+    color: white;
+}
+
+.signin{
+    margin-top: 20px;
+}
+
+.blm{
+    display: block;
+    margin-left: 490px;
+    margin-right: auto;
+}
+
+footer{
+    background-color:c1a57b;
+    color:30475e;
+}
+
+.cart{
+    padding-left: 15px;
+}
+
+.heart{
+    padding-left: 15px;
+}
+
+.sign{
+    padding-left: 15px;
+    color:white;
+}

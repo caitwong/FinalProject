@@ -1,0 +1,57 @@
+
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.abouttitle{
+    font-size: 52;
+    font-family: verdana;
+    text-align: center;
+    color:white;
+}
+
+.business{
+    background-color: 30475e;
+}
+
+.navbtn{
+    width:350px;
+}
+
+hr{
+    background-color: white;
+    height: 15px;
+}
+
+.description{
+    margin-left:100px;
+    margin-right: 100px;
+    padding-bottom:100px;
+}
+
+h3{
+    color:white;
+    font-family: verdana;
+    text-align: center;
+}
+
+h4{
+    color:ececec;
+    font-family: verdana;
+}
+
+.blm{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 80%;
+}
+
+footer{
+    background-color:c1a57b;
+    color:30475e;
+}
