@@ -39,3 +39,31 @@
     font-family: verdana;
 }
 
+
+.textWithBlurred{
+    position: relative;
+    display:inline-block;
+}
+
+.textWithBlurred img{
+    transition: .3s;
+}
+
+.textWithBlurred:hover img{
+    filter:blur(2px) brightness(100%);
+    
+}
+
+.textWithBlurred :not(img){
+    position: absolute;
+    z-index: 1;
+    opacity:0;
+    transition:.3s;
+    margin-top: 120px;
+    margin-left:-240px;
+    color:white;
+}
+
+.textWithBlurred:hover :not(img){
+    opacity:1;
+}
