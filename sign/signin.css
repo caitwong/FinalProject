@@ -5,6 +5,10 @@
     width: 20%;
 }
 
+.page{
+    padding-bottom:100px;
+}
+
 .cart{
     padding-left: 15px;
 }
@@ -34,10 +38,6 @@
 
 .textcenter{
     text-align: center;
-}
-
-body{
-    padding-bottom: 100px;
 }
 
 .dropbtn {
@@ -71,3 +71,7 @@ body{
   
   .dropdown:hover .dropdown-content {display: block;}
 
+  footer{
+    background-color:30475e;
+    color:white;
+}

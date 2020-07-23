@@ -52,8 +52,12 @@ h4{
 }
 
 footer{
-    background-color:c1a57b;
-    color:30475e;
+    background-color:30475e;
+    color:white;
+}
+
+hr{
+    background-color: white;
 }
 
 .sign{
