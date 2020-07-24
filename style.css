@@ -1,7 +1,7 @@
 
 
 .back{
-    background-image: url('/assets/background.jpg');
+    background-image: url('assets/background.jpg');
     padding-top:260px;
     padding-bottom: 260px;
 }
