@@ -60,7 +60,7 @@ hr{
 
 .custom{
     padding-bottom: 300px;
-    background-image: url('/assets/wall.jpg');
+    background-image: url('assets/wall.jpg');
     background-repeat: no-repeat;
     background-size: 70%;
     background-color: 222831;
