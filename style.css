@@ -26,9 +26,10 @@
     width: 20%;
 }
 
-span{
+.span{
     font-size:14;
-
+    text-align:center;
+    margin-top:-15px;
 }
 
 .btnshop{
